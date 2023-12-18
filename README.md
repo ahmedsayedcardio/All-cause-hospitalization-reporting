@@ -1,5 +1,5 @@
 # All-cause-hospitalization-reporting
-This repository contains the code related to an analysis of the reporting of all-cause hospitalization by heart failure trials reporting heart failure hospitalizations
+This repository contains the data and code needed to independently replicate an analysis of the reporting of all-cause hospitalization by heart failure trials reporting heart failure hospitalizations
 
 Below is a brief elaboration on what each file does (the files should also be run/used in this order):
 
